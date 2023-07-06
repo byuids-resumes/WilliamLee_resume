@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: William Lee's Resume
+title: Brigham Young's Resume
 ---
-# William Lee
+# Brigham Young
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
