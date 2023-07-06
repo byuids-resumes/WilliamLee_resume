@@ -1,9 +1,8 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: William Lee's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# William Lee
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
